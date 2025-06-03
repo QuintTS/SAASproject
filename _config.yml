@@ -1,7 +1,7 @@
 title: "SaaS Bundle Hub"
 description: "Curated SaaS tools for growth hackers."
 baseurl: ""           # Leeg, want site staat in root
-url: "https://<jouw-gebruikersnaam>.github.io/<repository-naam>"
+url: https://QuintTS.github.io
 theme: minima
 plugins:
   - jekyll-feed
