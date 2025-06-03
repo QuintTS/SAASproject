@@ -1,7 +1,7 @@
 title: "SaaS Bundle Hub"
 description: "Curated SaaS tools for growth hackers."
-baseurl: https://startuptools.nl/          
-url: https://QuintTS.github.io
+baseurl:  ""         
+url: https://startuptools.nl/    
 theme: minima
 plugins:
   - jekyll-feed
