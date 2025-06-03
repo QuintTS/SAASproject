@@ -1,1 +1,14 @@
+title: "SaaS Bundle Hub"
+description: "Curated SaaS tools for growth hackers."
+baseurl: ""           # Leeg, want site staat in root
+url: "https://<jouw-gebruikersnaam>.github.io/<repository-naam>"
+theme: minima
+plugins:
+  - jekyll-feed
 
+environment: production
+
+collections:
+  social:
+    output: true
+    permalink: /social/:title
